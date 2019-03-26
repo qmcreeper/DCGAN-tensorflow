@@ -1,2 +1,2 @@
 # DCGAN-tensorflow
-学习使用，参考https://edu.csdn.net/course/detail/4093
+学习使用,可生成二次元图片
